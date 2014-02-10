@@ -59,3 +59,7 @@ Delay response by 3 seconds
 
 		?response=jpg&width=800&height=600
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/zsitro/iam.lagging.php/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
